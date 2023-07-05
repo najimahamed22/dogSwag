@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "8AUb78787",
+    "dr_name": "Dr Sarah Lee",
+    "dr_image": "https://i.ibb.co/Wx3hJpz/doc3.png",
+    "hospital": "XYZ hospital, Bangalore, India",
+    "location": "Bangalore, India",
+    "years_of_experience": 7,
+    "time": "8am-2pm and 5pm-8pm",
+    "summary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+    "education": [
+      "Doctor of Veterinary Medicine (DVM): University of Veterinary Sciences, 2010",
+      "Certification in Advanced Small Animal Surgery, 2012"
+    ],
+    "experience": [
+      "Senior Veterinarian: Animal Care Clinic, 2010 - Present",
+      "Conducted comprehensive physical examinations, diagnosed and treated various medical conditions, and performed surgeries as needed.",
+      "Developed and implemented preventive care plans, including vaccinations, parasite control, and nutrition counseling.",
+      "Communicated effectively with pet owners, providing clear explanations of diagnoses, treatment options, and ongoing care instructions.",
+      "Collaborated with a multidisciplinary team of veterinary professionals to ensure the highest quality of patient care."
+    ],
+    "prescriptions": "Jale Pantopet 20"
+  },
+  {
+    "_id": "4AYJUb8454787",
+    "dr_name": "Emily S.",
+    "dr_image": "https://i.ibb.co/PxCfPnR/doc2.png",
+    "hospital": "XYZ hospital, Bangalore, India",
+    "location": "Bangalore, India",
+    "years_of_experience": 7,
+    "time": "8am-2pm and 5pm-8pm",
+    "summary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+    "education": [
+      "Doctor of Veterinary Medicine (DVM): University of Veterinary Sciences, 2010",
+      "Certification in Advanced Small Animal Surgery, 2012"
+    ],
+    "experience": [
+      "Senior Veterinarian: Animal Care Clinic, 2010 - Present",
+      "Conducted comprehensive physical examinations, diagnosed and treated various medical conditions, and performed surgeries as needed.",
+      "Developed and implemented preventive care plans, including vaccinations, parasite control, and nutrition counseling.",
+      "Communicated effectively with pet owners, providing clear explanations of diagnoses, treatment options, and ongoing care instructions.",
+      "Collaborated with a multidisciplinary team of veterinary professionals to ensure the highest quality of patient care."
+    ],
+    "prescriptions": "Jale Pantopet 20"
+  },
+  {
+    "_id": "4AY565421AB4787",
+    "dr_name": "Rylie Gibbs",
+    "dr_image": "https://i.ibb.co/ZYVpCCh/doc.png",
+    "hospital": "XYZ hospital, Bangalore, India",
+    "location": "Bangalore, India",
+    "years_of_experience": 7,
+    "time": "8am-2pm and 5pm-8pm",
+    "summary": "I am a highly skilled and compassionate veterinarian with 10 years of experience in providing exceptional care to animals. My expertise lies in diagnosing and treating a diverse range of medical conditions, performing surgeries, and delivering preventive care to ensure the well-being of both companion animals and livestock. I am passionate about animal welfare and committed to delivering the highest standard of veterinary medicine.",
+    "education": [
+      "Doctor of Veterinary Medicine (DVM): University of Veterinary Sciences, 2010",
+      "Certification in Advanced Small Animal Surgery, 2012"
+    ],
+    "experience": [
+      "Senior Veterinarian: Animal Care Clinic, 2010 - Present",
+      "Conducted comprehensive physical examinations, diagnosed and treated various medical conditions, and performed surgeries as needed.",
+      "Developed and implemented preventive care plans, including vaccinations, parasite control, and nutrition counseling.",
+      "Communicated effectively with pet owners, providing clear explanations of diagnoses, treatment options, and ongoing care instructions.",
+      "Collaborated with a multidisciplinary team of veterinary professionals to ensure the highest quality of patient care."
+    ],
+    "prescriptions": "Jale Pantopet 20"
+  }
+]
