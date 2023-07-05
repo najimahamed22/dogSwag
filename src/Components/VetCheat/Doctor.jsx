@@ -5,7 +5,7 @@ const Doctor = () => {
   const [doc, setDoc] = useState([]);
 
   useEffect(() => {
-    fetch("../../../public/doctor.json")
+    fetch("/doctor.json")
       .then((res) => res.json())
       .then((data) => setDoc(data))
       .catch((error) => console.error(error));
