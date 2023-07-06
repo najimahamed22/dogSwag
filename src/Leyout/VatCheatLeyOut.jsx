@@ -35,7 +35,7 @@ const VatCheatLeyOut = () => {
                 </NavLink>
 
                 <NavLink
-                  to="/vatCheat/cheat"
+                  to="/cheat"
                   exact="true"
                   className="p-3 flex bg-gradient-to-r from-[#8840E526] via-transparent to-[#FFCB0700] items-center">
                   <img src={sms} className="mr-4 mt-1 h-7" alt="" />
